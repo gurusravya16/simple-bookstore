@@ -1,0 +1,12 @@
+.card {
+  height: 350px;
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+.border-success {
+  border: 2px solid #28a745 !important;
+}
